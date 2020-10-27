@@ -15,7 +15,7 @@ You can find some examples of Unity work I've done here in [my Github profile](h
 [Collection of examples for Unity functionality](https://github.com/DominicFrei/UnityExamples)
 [Simple Space Shooter example](https://github.com/DominicFrei/Space-Shooter-Pro)
 
-Playable game examples can also be found on Unity Play:  
+Playable game examples can also be found on my [Unity Play page](https://play.unity.com/u/dominic-frei):  
 [Unity GameJam 2020](https://play.unity.com/mg/other/secrets-4)
 
 # Contact
