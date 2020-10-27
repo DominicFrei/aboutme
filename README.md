@@ -11,11 +11,11 @@ You can find me resume in this reposity as a [Word](https://github.com/DominicFr
 I am happy to provide contact details to all my references on request.
 
 # Portfolio
-You can find some examples of Unity work I've done here in [my Github profile](https://github.com/DominicFrei?tab=repositories):  
+You can find some examples of Unity work I've done here in [my Github profile](https://github.com/DominicFrei?tab=repositories). Some examples:  
 [Collection of examples for Unity functionality](https://github.com/DominicFrei/UnityExamples)
 [Simple Space Shooter example](https://github.com/DominicFrei/Space-Shooter-Pro)
 
-Playable game examples can also be found on my [Unity Play page](https://play.unity.com/u/dominic-frei):  
+Playable game examples can also be found on my [Unity Play page](https://play.unity.com/u/dominic-frei). Some examples:  
 [Unity GameJam 2020](https://play.unity.com/mg/other/secrets-4)
 
 # Contact
