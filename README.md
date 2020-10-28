@@ -13,6 +13,7 @@ I am happy to provide contact details to all my references on request.
 # Portfolio
 You can find some examples of Unity work I've done here in [my Github profile](https://github.com/DominicFrei?tab=repositories). Some examples:  
 [Simple Space Shooter](https://github.com/DominicFrei/galaxyshooter)  
+[Unity GameJam 2020](https://github.com/DominicFrei/UnityGameJam2020)  
 [Collection of examples for Unity functionality](https://github.com/DominicFrei/UnityExamples)
 
 Playable game examples can also be found on my [Unity Play page](https://play.unity.com/u/dominic-frei). Some examples:  
