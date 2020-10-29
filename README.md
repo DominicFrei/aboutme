@@ -12,13 +12,14 @@ I am happy to provide contact details to all my references on request.
 
 # Portfolio
 You can find some examples of Unity work I've done here in [my Github profile](https://github.com/DominicFrei?tab=repositories). Some examples:  
-[Simple Space Shooter](https://github.com/DominicFrei/galaxyshooter)  
+[Galaxy Shooter](https://github.com/DominicFrei/galaxyshooter)  
 [Unity GameJam 2020](https://github.com/DominicFrei/UnityGameJam2020)  
 [Collection of examples for Unity functionality](https://github.com/DominicFrei/UnityExamples)
 
 Playable game examples can also be found on my [Unity Play page](https://play.unity.com/u/dominic-frei) or [itch.io profile](https://itch.io/profile/dominicfrei). Some examples:  
 [Unity GameJam 2020 on Unity Play](https://play.unity.com/mg/other/secrets-4)  
-[Unity GameJam 2020 on itch.io](https://dominicfrei.itch.io/unity-game-jam-2020-secrets)
+[Unity GameJam 2020 on itch.io](https://dominicfrei.itch.io/unity-game-jam-2020-secrets)  
+[Galaxy Shooter on simmer.io](https://simmer.io/@dominicfrei/galaxy-shooter)
 
 # Contact
 You can contact me on any of the following ways:
