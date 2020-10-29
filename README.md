@@ -17,9 +17,10 @@ You can find some examples of Unity work I've done here in [my Github profile](h
 [Collection of examples for Unity functionality](https://github.com/DominicFrei/UnityExamples)
 
 Playable game examples can also be found on my [Unity Play page](https://play.unity.com/u/dominic-frei), [itch.io profile](https://itch.io/profile/dominicfrei) or [simmer.io profile](https://simmer.io/@dominicfrei). Some examples:  
-[Unity GameJam 2020 on Unity Play](https://play.unity.com/mg/other/secrets-4)  
-[Unity GameJam 2020 on itch.io](https://dominicfrei.itch.io/unity-game-jam-2020-secrets)  
-[Galaxy Shooter on simmer.io](https://simmer.io/@dominicfrei/galaxy-shooter)
+[Galaxy Shooter on simmer.io](https://simmer.io/@dominicfrei/galaxy-shooter)  
+[Unity GameJam 2020 Submission on simmer.io](https://simmer.io/@dominicfrei/unity-gamejam-2020-submission)  
+[Unity GameJam 2020 Submission on Unity Play](https://play.unity.com/mg/other/secrets-4)  
+[Unity GameJam 2020 Submission on itch.io](https://dominicfrei.itch.io/unity-game-jam-2020-secrets)  
 
 # Contact
 You can contact me on any of the following ways:
