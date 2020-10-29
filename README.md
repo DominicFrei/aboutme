@@ -17,7 +17,7 @@ You can find some examples of Unity work I've done here in [my Github profile](h
 [Collection of examples for Unity functionality](https://github.com/DominicFrei/UnityExamples)
 
 Playable game examples can also be found on my [Unity Play page](https://play.unity.com/u/dominic-frei) or [itch.io](itch.io). Some examples:  
-[Unity GameJam 2020 on Unity Play](https://play.unity.com/mg/other/secrets-4)
+[Unity GameJam 2020 on Unity Play](https://play.unity.com/mg/other/secrets-4)  
 [Unity GameJam 2020 on itch.io](https://dominicfrei.itch.io/unity-game-jam-2020-secrets)
 
 # Contact
