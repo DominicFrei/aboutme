@@ -11,7 +11,7 @@ You can find me resume in this reposity as a [Word](https://github.com/DominicFr
 I am happy to provide contact details to all my references on request.
 
 # Portfolio
-You can find examples of Unity3D work I've done [here in my Github profile](https://github.com/DominicFrei?tab=repositories):  
+You can find examples of Unity3D work I've done here in [my Github profile](https://github.com/DominicFrei?tab=repositories):  
 [Galaxy Shooter](https://github.com/DominicFrei/galaxyshooter)  
 [Unity GameJam 2020 Submission](https://github.com/DominicFrei/UnityGameJam2020)  
 [Collection of examples for Unity functionality](https://github.com/DominicFrei/UnityExamples)
