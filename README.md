@@ -14,11 +14,13 @@ I am happy to provide contact details to all my references on request.
 You can find examples of Unity3D work I've done here in [my Github profile](https://github.com/DominicFrei?tab=repositories):  
 [Galaxy Shooter](https://github.com/DominicFrei/galaxyshooter)  
 [Unity GameJam 2020 Submission](https://github.com/DominicFrei/UnityGameJam2020)  
+[Remake of the 1991 Niblles on MS-DOS](https://github.com/DominicFrei/nibbles)  
 [Collection of examples for Unity functionality](https://github.com/DominicFrei/UnityExamples)
 
 Playable WebGL uploads of my games can be found in my [simmer.io profile](https://simmer.io/@dominicfrei):  
 [Galaxy Shooter](https://simmer.io/@dominicfrei/galaxy-shooter)  
 [Unity GameJam 2020 Submission](https://simmer.io/@dominicfrei/unity-gamejam-2020-submission)  
+[Remake of the 1991 Niblles on MS-DOS](https://simmer.io/@dominicfrei/nibbles-2020)  
 
 # Contact
 You can contact me on any of the following ways:
